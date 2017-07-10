@@ -5,6 +5,9 @@
 // using declarations states our intent to use these names from the namespace std
 using std::cin;
 using std::string;
+
+//using namespace std;
+
 int main()
 {
     string s;       // ok: string is now a synonym for std::string
